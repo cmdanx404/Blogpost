@@ -15,6 +15,6 @@ Part of a fullstack learning roadmap (Phase 1 – Week 1).
 
 ## Setup
 ```bash
-git clone <YOUR-REPO-URL>
+git clone https://github.com/cmdanx404/Blogpost
 cd blog-cms
 npm install
